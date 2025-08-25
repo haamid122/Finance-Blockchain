@@ -1,7 +1,9 @@
-Domain: Finance
-Problem: Secure & Transparent Peer-to-Peer Transactions
+**Domain: Finance
+Problem: Secure & Transparent Peer-to-Peer Transactions**
 
-Traditional finance relies on banks (centralized), which can cause issues:
+.
+
+🏥Traditional finance relies on banks (centralized), which can cause issues:
 
 High transaction fees.
 
@@ -18,7 +20,7 @@ No central authority needed.
 Immutable and transparent history of payments.
 
 
-How This Solves the Problem in Finance
+📝How This Solves the Problem in Finance
 
 No Double Spending → Every transaction is chained and verified.
 
